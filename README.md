@@ -24,7 +24,7 @@ Below is a demo GIF showing the detection results from all three cameras:
 
 ## 🔗 Related Repository
 
-- [Autodistill fir Auto Labeling and Annotation](https://github.com/MahmoudFarag77/Auto_Labeling_And_Annotation): Notebook used for automated data labeling and dataset preparation.
+- [Autodistill fir Auto Labeling and Annotation](https://github.com/MoTawfik11/Auto_Labeling_And_Annotation): Notebook used for automated data labeling and dataset preparation.
 
 ---
 
